@@ -1,5 +1,5 @@
 variables:
-  ml-ws-connection: 'github.com_gradykin' # Workspace Service Connection name
+  ml-ws-connection: 'azmldemows' # Workspace Service Connection name
   ml-ws: 'pl-ws' # AML Workspace name
   ml-rg: 'ml-pipeline-rg' # AML resource Group name
   ml-ct: 'cpu-cluster-1' # AML Compute cluster name
