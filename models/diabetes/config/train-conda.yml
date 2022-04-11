@@ -6,5 +6,4 @@ dependencies:
     - scikit-learn
     - numpy
     - inference-schema[numpy-support]
-    - pandas
   - pip==22.0.3
